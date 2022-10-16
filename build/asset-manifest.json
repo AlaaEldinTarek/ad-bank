@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/http//AlaaEldinTarek.github.io/ad-bank-app/static/css/main.81585923.css",
-    "main.js": "/http//AlaaEldinTarek.github.io/ad-bank-app/static/js/main.6ae1a4c3.js",
-    "static/media/11.png": "/http//AlaaEldinTarek.github.io/ad-bank-app/static/media/11.38562bd221555b891e88.png",
-    "static/media/bank_PNG24.png": "/http//AlaaEldinTarek.github.io/ad-bank-app/static/media/bank_PNG24.dd5c3acffb05362d7de7.png",
-    "static/media/22.png": "/http//AlaaEldinTarek.github.io/ad-bank-app/static/media/22.5a1a7322dd12ca016572.png",
-    "index.html": "/http//AlaaEldinTarek.github.io/ad-bank-app/index.html",
-    "main.81585923.css.map": "/http//AlaaEldinTarek.github.io/ad-bank-app/static/css/main.81585923.css.map",
-    "main.6ae1a4c3.js.map": "/http//AlaaEldinTarek.github.io/ad-bank-app/static/js/main.6ae1a4c3.js.map"
+    "main.css": "/http//AlaaEldinTarek.github.io/ad-bank/static/css/main.81585923.css",
+    "main.js": "/http//AlaaEldinTarek.github.io/ad-bank/static/js/main.86425dd6.js",
+    "static/media/11.png": "/http//AlaaEldinTarek.github.io/ad-bank/static/media/11.38562bd221555b891e88.png",
+    "static/media/bank_PNG24.png": "/http//AlaaEldinTarek.github.io/ad-bank/static/media/bank_PNG24.dd5c3acffb05362d7de7.png",
+    "static/media/22.png": "/http//AlaaEldinTarek.github.io/ad-bank/static/media/22.5a1a7322dd12ca016572.png",
+    "index.html": "/http//AlaaEldinTarek.github.io/ad-bank/index.html",
+    "main.81585923.css.map": "/http//AlaaEldinTarek.github.io/ad-bank/static/css/main.81585923.css.map",
+    "main.86425dd6.js.map": "/http//AlaaEldinTarek.github.io/ad-bank/static/js/main.86425dd6.js.map"
   },
   "entrypoints": [
     "static/css/main.81585923.css",
-    "static/js/main.6ae1a4c3.js"
+    "static/js/main.86425dd6.js"
   ]
 }
